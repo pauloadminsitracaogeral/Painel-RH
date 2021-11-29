@@ -2,7 +2,8 @@
 
 Neste projeto desenvolvemos um painel completo para o time de RH da empresa.
 Passando por diversos indicadores (30 no total), como controle de horas-extras, turn-over, situação dos colaboradores (segundo a categorização aplicada pela organização).
-
+ ### AQUI EU VOU EDITANDO O ARQUIVO 
+ 
 
 ### FASES DO PROJETO:
 • Levantamento de requisitos;
