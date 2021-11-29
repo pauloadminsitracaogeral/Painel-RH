@@ -1,5 +1,9 @@
 # Painel de Gente e Gestão
 
+Neste projeto desenvolvemos um painel completo para o time de RH da empresa.
+Passando por diversos indicadores (30 no total), como controle de horas-extras, turn-over, situação dos colaboradores (segundo a categorização aplicada pela organização).
+
+
 ### FASES DO PROJETO:
 • Levantamento de requisitos;
 
@@ -29,9 +33,14 @@
 • Apresentação e encerramento do projeto com steackholderes.
 
 
-
 Acompanhameno pelo Azure Devops
 Fizemos toda estrutura de acompanhamento do projeto por sprints semanais dentro do DevOp, com o Issue, Epic, Task.
 
 Posteriormente conectamos no Power BI, para dar publicidade ao trabalho que estava sendo desenvolvido.
 Projeto realizado para a Federação das Indústrias do Estado de Mato Grosso do Sul — FIEMS, englobando as empresas, SESI, SENAI e IEL
+
+Acompanhameno pelo Azure Devops, estrutura de acompanhamento do projeto por sprints semanais dentro do DevOp, com o Issue, Epic, Task.
+
+Posteriormente conectamos no Power BI, para dar publicidade ao trabalho que estava sendo desenvolvido.
+Projeto realizado para a Federação das Indústrias do Estado de Mato Grosso do Sul — FIEMS, englobando as empresas, SESI, SENAI e IEL
+
